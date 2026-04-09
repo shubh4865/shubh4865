@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubh4865
+- 👋 Hi, I’m Shubham Kumar.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning verilog
 - 💞️ I’m looking to collaborate on linkdin
